@@ -4,4 +4,5 @@ It's easier to first calculate the probability that he didn't hit 77 in a row on
 
 Then the probably that he did indeed hit 77 in a row is \(P_\textrm{success} = 1 - P_\textrm{failure}\).
 
-We are finally in a position to solve this, we can set thi
+We are finally in a position to solve this, we can set \(P_\textrm{success}\) to 0.5, ie let's put the odds at 50% for success.  Solving the resultant equation:
+
