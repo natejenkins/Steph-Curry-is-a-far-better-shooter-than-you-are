@@ -7,3 +7,5 @@ Then the probably that he did indeed hit 77 in a row is \(P_\textrm{success} = 1
 We are finally in a position to solve this, we can set \(P_\textrm{success}\) to 0.5, ie let's put the odds at 50% for success.  Solving the resultant equation:
 
 \(p_3 = (0.5/1000)^{1/77} \approx 90.6\%\)
+
+Let's say Steph was extremely lucky that day and the likelihood of this occurrence over 1000 days was only 1% instead of 50%, in that case p_3 would drop to the embarrassingly-low 86%.
