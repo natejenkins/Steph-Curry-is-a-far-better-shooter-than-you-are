@@ -6,4 +6,4 @@ Then the probably that he did indeed hit 77 in a row is \(P_\textrm{success} = 1
 
 We are finally in a position to solve this, we can set \(P_\textrm{success}\) to 0.5, ie let's put the odds at 50% for success.  Solving the resultant equation:
 
-\(p_3 = (0.5/1000)^{1/77} \approx 90.6%\)
+\(p_3 = (0.5/1000)^{1/77} \approx 90.6\%\)
