@@ -1,0 +1,2 @@
+Amateur basketball players love to compare their own capabilities against NBA players and often feel like, "If I were only 6 inches taller I could have made it."  And looking at the game numbers it doesn't appear insurmountable.  The best 3-point shooters in the NBA hit around 40% of their attempts with Kyle Korver leading the way at nearly 50%.  An oft-forgotten tiny detail when looking at these stats is that these numbers occur against NBA level defenses, these are shots under pressure.  So what would these guys shoot under little or no pressure?
+
