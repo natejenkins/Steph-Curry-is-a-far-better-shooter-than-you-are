@@ -1,4 +1,4 @@
-It's easier to first calculate the probability that he didn't hit 77 in a row on any of the 1000 days:
+It's easier to first calculate the probability that he didn't hit 77 in a row on any of the 1000 days (remember we are still incorrectly assuming he only shot 77 3-pointers each day, bear with me):
 
 \(P_\textrm{failure} = (1-{p_3}^{77})^{1000} \approx (1-1000*{p_3}^{77})\)
 
