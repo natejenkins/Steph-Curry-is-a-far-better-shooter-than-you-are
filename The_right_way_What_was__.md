@@ -22,7 +22,7 @@ The ordering of heads and tails in a given string does not affect the probabilit
 
 This is given by the [binomial coefficient](http://en.wikipedia.org/wiki/Binomial_coefficient) \(\binom{n}{k}\) and we can use it to calculate the total probability of \(k\) heads in a random string of length \(n\):
 
-\[
+\(
 P_{n}(k) = \binom{n}{k}p^kq^{n-k}
-\]
+\)
 
