@@ -1,6 +1,6 @@
 This is a hard number to get at since we don't generally have access to practice statistics of NBA players.  However, there is some recent anecdotal evidence that we can use to give an estimate for one of NBA's best shooters, Stephen Curry.  It was [recently](http://espn.go.com/nba/story/_/id/12692397/stephen-curry-golden-state-warriors-makes-77-consecutive-3-pointers-practice) that Steph recently hit 77 3-pointers in a row in practice and 94 out of 100 total.  
 
-# The wrong way
+# **The wrong way**
 
 Calculating his likely shooting percentage is kind of tricky but we can first make an estimate assuming (incorrectly) that he didn't shoot 100 3 pointers, but instead stopped at 77 (if this kind of simplification bothers you then don't become a physicist).  In this case his one-day probability is the following:
 
