@@ -10,4 +10,4 @@ Let's assume for the moment that he shoots the same percentage in practice as in
 
 \({0.44}^{77} = 3.51*10^{-28}\)
 
-Clearly Steph shoots a bit better than that in practice.  How much better?  Steph has been a professional basketball player for 6 seasons.  Let's say he does this shooting drill every day he practices over those 6 seasons and that adds up to a total of 1000 days where he had an opportunity to set this number.  We also have to assume that this would be newsworthy, ie this is not something he pulls off everyday.  
+Clearly Steph shoots a bit better than that in practice.  How much better?  Steph has been a professional basketball player for 6 seasons.  Let's say he does this shooting drill every day he practices over those 6 seasons and that adds up to a total of 1000 days.  We also have to assume that this would be newsworthy, ie this is not something he pulls off everyday.  
