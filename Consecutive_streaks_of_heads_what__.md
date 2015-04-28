@@ -7,5 +7,5 @@ The idea is the following:
 First consider a fair coin, \(p=q=0.5\).  If we knew how many strings of length \(N\) had a longest streak of \(x\), let's call this , we could calculate the probability directly:
 
 \[
-P_N(x) = \textrm{number of strings with max streak x}/{2^N}
+P_N(x) = (\textrm{number of strings with max streak x})/{2^N}
 \]
