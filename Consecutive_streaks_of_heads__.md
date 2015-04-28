@@ -1,1 +1,3 @@
 ## **Consecutive streaks of heads**
+
+what if we are not interested in the number of heads in a given number of flips, but instead the longest streak of heads.  It's quite a bit more complicated to calculate.  Let's call this streak \(x\).  The idea is the same, we need to find all the strings that have a longest streak of \(x\), find the probability for each of those strings to occur, and add them up.  You should take a moment to convince yourself this is non-trivial and then have a look at an excellent resource, \cite{Schilling1990}. 
