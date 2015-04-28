@@ -8,11 +8,11 @@ Each time I flip a fair coin there is a \(50\%\) probability for heads, let's ca
 
 \(\textrm{HHTHT}\)
 
-The probability of this occurring is simply:
+The probability of this string occurring is simply:
 
-\(ppqpq = p^3q^2\)
+\(P_n(s) = ppqpq = p^3q^2\)
 
-i.e., the probability of getting \(k\) number of heads in a string of coin flips of length \(n\) only depends on the probability of getting heads on a single coin flip and the total number of coin flips (you can calculate \(q\) from \(p\)).  The ordering of heads and tails doesn't matter.  
+Since I can re-arrange the powers of \(p\) and \(q\) however I like, you can see that the ordering of heads and tails in a given string does not affect the probability of that string occurring, only their respective numbers and probabilities.  To calculate not only the probability of a given string with say 3 heads occurring, but the probability of having any string of length \(n\) with exactly 3 heads, we simply need to count all the different ways to get 3 heads in a string of length \(n\) and multiply that by \(P_n(s)\)
 
 How about if we are only interested in the number of heads and not the exact way they came about?  In that case we need to add up all the probabilities for all strings with the desired number of heads, which involves the [binomial coefficient](http://en.wikipedia.org/wiki/Binomial_coefficient) \(\binom{n}{k}\):
 
