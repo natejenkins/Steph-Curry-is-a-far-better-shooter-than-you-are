@@ -7,3 +7,7 @@ What was so wrong about the wrong way?  The article mentioned that Steph didn't 
 Each time I flip a fair coin there is a \(50\%\) probability for heads, let's call this probability \(p\), and likewise for tails, let's call this probability \(q\).  For the moment \(p\) and \(q\) are equal, but that won't always be the case.  A string of flips might result in the following:
 
 \(\textrm{HHTHT}\)
+
+The probability of this occurring is simply:
+
+\(ppqpq = p^3q^2\)
