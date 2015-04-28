@@ -4,10 +4,10 @@ What if we are not interested in the number of heads in a given number of flips,
 
 The idea is the following:
 
-First consider a fair coin, \(p=q=0.5\).  If we knew how many strings of length \(N\) had a longest streak of \(x\), let's call this , we could calculate the probability directly:
+First consider a fair coin, \(p=q=0.5\).  If we knew how many strings of length \(n\) had a longest streak of \(x\), let's call this , we could calculate the probability directly:
 
 \[
-P_N(x) = (\textrm{number of strings with max streak x})/{2^N}
+P_n(x) = (\textrm{number of strings with max streak x})/{2^n}
 \]
 
 As is often the case, the calculation is simplified by calculating something slightly different, instead of the probability of having a max streak of length \(x\), let's calculate the probability of having a max streak \(R_n{\leq}x\)
