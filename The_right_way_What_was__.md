@@ -4,10 +4,12 @@ What was so wrong about the wrong way?  The article mentioned that Steph didn't 
 
 ## Streaks of Heads
 
-Each time I flip a fair coin there is a \(50\%\) probability for heads, let's call this probability \(p\), and likewise for tails, let's call this probability \(q\).  For the moment \(p\) and \(q\) are equal, but that won't always be the case.  A string of flips might result in the following:
+Each time I flip a fair coin there is a \(50\%\) probability for heads, let's call this probability \(p\), and likewise for tails, let's call this probability \(q\).  For the moment \(p\) and \(q\) are equal, but that won't always be the case.  A string of 5 flips might result in the following:
 
 \(\textrm{HHTHT}\)
 
 The probability of this occurring is simply:
 
 \(ppqpq = p^3q^2\)
+
+i.e., the probability of getting \(x\) number of heads in a string of coin flips only depends on the probability of getting heads on a single coin flip and the total number of coin flips (you can calculate \(q\) from \(p\).  
