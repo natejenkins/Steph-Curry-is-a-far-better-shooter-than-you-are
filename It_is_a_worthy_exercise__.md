@@ -11,3 +11,9 @@ For the starting substring \(T\), there are \(A_{n-1}(3)\) possible ways to sati
 A_{n}(3) = A_{n-1}(3) + A_{n-2}(3) + A_{n-3}(3) + A_{n-4}(3)
 \]
 
+and in general:
+
+\[
+A_{n}(x) = \sum_{i=1}^{x} \sum{A_{n-x}(x)
+\]
+
