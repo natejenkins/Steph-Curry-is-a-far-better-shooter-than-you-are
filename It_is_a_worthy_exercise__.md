@@ -8,6 +8,6 @@ It is a worthy exercise to try and calculate \(A_n(3)\) yourself (I failed).  Th
 For the starting substring \(T\), there are \(A_{n-1}(3)\) possible ways to satisfy \(R_n{\leq}3\), we simply tack on all valid strings of length \(n-1\) to \(T\) and end up with a valid string of length \(n\).  For \(HT\), there are \(A_{n-2}(3)\) ways, and so on.  This gives the following full recursive formula for \(A_{n-1}(3)\):
 
 \[
-A_{n}(3) = \(A_{n-1}(3) + A_{n-2}(3) + A_{n-3}(3) + A_{n-4}(3)
+A_{n}(3) = A_{n-1}(3) + A_{n-2}(3) + A_{n-3}(3) + A_{n-4}(3)
 \]
 
