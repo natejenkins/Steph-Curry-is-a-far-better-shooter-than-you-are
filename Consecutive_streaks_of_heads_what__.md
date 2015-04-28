@@ -10,4 +10,4 @@ First consider a fair coin, \(p=q=0.5\).  If we knew how many strings of length 
 P_N(x) = (\textrm{number of strings with max streak x})/{2^N}
 \]
 
-As is often the case, the calculation is simplified by calculating something slightly different, instead of the probability of having a max streak of length \(x\), let's calculate the probability of having a max streak \(R_n\leqx\)
+As is often the case, the calculation is simplified by calculating something slightly different, instead of the probability of having a max streak of length \(x\), let's calculate the probability of having a max streak \(R_n{\leq}x\)
