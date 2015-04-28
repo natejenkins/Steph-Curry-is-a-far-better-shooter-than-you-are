@@ -4,4 +4,4 @@ What was so wrong about the wrong way?  The article mentioned that Steph didn't 
 
 ## Streaks of Heads
 
-Each time I flip a fair coin there is a \(50\%\) probability for heads, \(p\\(\) and likewise for tails.  
+Each time I flip a fair coin there is a \(50\%\) probability for heads, \(p(\) and likewise for tails.  
