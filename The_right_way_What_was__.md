@@ -12,4 +12,5 @@ The probability of this occurring is simply:
 
 \(ppqpq = p^3q^2\)
 
-i.e., the probability of getting \(x\) number of heads in a string of coin flips only depends on the probability of getting heads on a single coin flip and the total number of coin flips (you can calculate \(q\) from \(p\)).  
+i.e., the probability of getting \(x\) number of heads in a string of coin flips only depends on the probability of getting heads on a single coin flip and the total number of coin flips (you can calculate \(q\) from \(p\)).  The ordering of heads and tails doesn't matter at all, only the number.
+
