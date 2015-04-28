@@ -16,5 +16,5 @@ i.e., the probability of getting \(x\) number of heads in a string of coin flips
 
 How about if we are only interested in the number of heads and not the exact way they came about?  In that case we need to add up all the probabilities for all strings with the desired number of heads, which involves the [binomial coefficient](http://en.wikipedia.org/wiki/Binomial_coefficient):
 
-\(p_{N}(k) = \textrm{binomial}(N, k)p^kq(N-k)\)
+\(p_{N}(k) = \textrm{binomial}(N, k)*p^k*q(N-k)\)
 
