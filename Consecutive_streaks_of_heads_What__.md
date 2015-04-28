@@ -1,13 +1,6 @@
 ## **Consecutive streaks of heads**
 
-What if we are not interested in the number of heads in a given number of flips, but instead the longest streak of heads.  It's quite a bit more complicated to calculate.  Let's call this streak \(x\).  The idea is the same, we need to find all the strings that have a longest streak of \(x\), find the probability for each of those strings to occur, and add them up.  You should take a moment to convince yourself this is non-trivial and then have a look at an excellent resource: \cite{Schilling1990}. 
+We can now calculate the chances of getting \(k\) heads in \(n\) flips, but what we really want to know is the probability of having a run of consecutive heads longer than some value \(x\).  There is an excellent resource \cite{Schilling1990} that elaborates on how to do this, with the basic idea being the following (I've tried to keep my notation in line with that of \cite{Schilling1990}):
 
-The idea is the following:
-
-First consider a fair coin, \(p=q=0.5\).  If we knew how many strings of length \(n\) had a longest streak of \(x\), let's call this , we could calculate the probability directly:
-
-\[
-P_n(x) = (\textrm{number of strings with max streak x})/{2^n}
-\]
-
-As is often the case, the calculation is simplified by calculating something slightly different, instead of the probability of having a max streak of length \(x\), let's calculate the probability of having a max streak \(R_n{\leq}x\)
+If we knew the probability of having a run \(R_n\) less than or equal to \(x\), \(F_n(x)\)
+ \(R_n{\leq}x\)
