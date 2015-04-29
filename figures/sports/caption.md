@@ -1,1 +1,1 @@
-Replace this text with your caption
+_Source: [http://xkcd.com/](http://xkcd.com/)_
