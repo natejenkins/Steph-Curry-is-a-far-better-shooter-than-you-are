@@ -2,7 +2,7 @@
 
 `WARNING: Lots of math ahead.  If you aren't into that sort of thing, skip down to the last figure`
 
-What was so wrong about the above calculation?  The article mentioned that Steph didn't shoot until he missed, he shot 100 3-pointers, made 77 in a row, and 94 out of 100.  Limiting the calculation to a total of 77 shots means that if he misses the first attempt it is game-over, yet in reality he could start his streak on any shot up to and including his 24th.  Furthermore, our calculation stipulated that he had a streak of exactly 77 shots, but it probably still would have been newsworthy had it been 76 shots, and certainly newsworthy if he made 78, 85, or 95 in a row.  
+What was so wrong about the above calculation?  The article mentioned that Steph didn't shoot until he missed, he shot 100 3-pointers, making 77 in a row and 94 out of 100.  Limiting the calculation to a total of 77 shots means that if he misses the first attempt it is game-over, yet in reality he could start his streak on any shot up to and including the 24th.  Furthermore, our calculation stipulated that he had a streak of exactly 77 shots, but it probably still would have been newsworthy had it been 76 shots, and certainly newsworthy if he made 78, 85, or 95 in a row.  
 
 ## **Flipping Coins**
 
