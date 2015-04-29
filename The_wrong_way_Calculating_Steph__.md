@@ -4,7 +4,7 @@ Calculating Steph's likely shooting percentage is kind of tricky but we can firs
 
 \(\textrm{One day Prob} = {p_3}^{77}\)
 
-where \(p3\) is his probability for hitting one three-pointer.
+where \(p_3\) is his probability for hitting one three-pointer.
 
 Let's assume for the moment that he shoots the same percentage in practice as in an actual NBA game.  Looking at his [stats](http://espn.go.com/nba/player/stats/_/id/3975/stephen-curry), in 2015 this stands at 44%.  Plugging that in to our equation we get:
 
