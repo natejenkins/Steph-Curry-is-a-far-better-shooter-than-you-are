@@ -1,6 +1,6 @@
 Amateur_basketball_players_love_to__.md
 This_is_a_hard_number__.md
-The_wrong_way_Calculating_his__.md
+The_wrong_way_Calculating_Steph__.md
 It_s_easier_to_first__.md
 The_right_way_What_was__.md
 Consecutive_streaks_of_heads_We__.md
