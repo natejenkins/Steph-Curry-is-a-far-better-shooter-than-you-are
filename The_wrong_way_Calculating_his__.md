@@ -1,6 +1,6 @@
 # **The wrong way**
 
-Calculating his likely shooting percentage is kind of tricky but we can first make an estimate assuming (incorrectly) that he didn't shoot 100 3 pointers, but instead stopped at 77 (if this kind of simplification bothers you then don't become a physicist).  In this case his one-day probability is the following:
+Calculating Steph's likely shooting percentage is kind of tricky but we can first make an estimate assuming (incorrectly) that he didn't shoot 100 3s, but instead stopped at 77 (if this kind of simplification bothers you then don't become a physicist).  In this case his one-day probability is the following:
 
 \(\textrm{One day Prob} = {p_3}^{77}\)
 
