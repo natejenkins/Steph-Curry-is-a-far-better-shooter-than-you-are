@@ -9,3 +9,4 @@ Back_to_Steph_s_biased__.md
 If_k_leq_x_then__.md
 Putting_it_all_together_Finally__.md
 I_ve_played_a_lot__.md
+Final_note_in_the_same__.md
