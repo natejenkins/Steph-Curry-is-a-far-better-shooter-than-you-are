@@ -5,4 +5,5 @@ It_s_easier_to_first__.md
 The_right_way_What_was__.md
 Consecutive_streaks_of_heads_We__.md
 It_is_a_worthy_exercise__.md
+Back_to_Steph_s_biased__.md
 I_ve_played_a_lot__.md
