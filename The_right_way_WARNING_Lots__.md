@@ -6,7 +6,7 @@ What was so wrong about the above calculation?  The article mentioned that Steph
 
 ## **Flipping Coins**
 
-Steph Curry shooting a 3-pointer has two results, either a miss or a make.  As we've already seen, his chance of making it are much higher than his chance of missing.  This is analogous to Steph flipping a (very) biased coin, heads for a make, tails for a miss.  If we were to write out this series of coin flips, we'd end up with a string of 100 $H$s and $T$s ($H$ for heads, $T$ for tails) in some order, likely with many more heads than tails.  If he does this 1000 different times, we want to know what the probability is that he has a streak in any run greater than 70 (I'd argue this is still newsworthy).  First let us simplify once again to a fair coin.
+Steph Curry shooting a 3-pointer has two results, either a miss or a make.  As we've already seen, his chance of making it are much higher than his chance of missing.  This is analogous to Steph flipping a (very) biased coin, heads for a make, tails for a miss.  If we were to write out this series of coin flips, we'd end up with a string of 100 $$H$$s and $$T$$s ($$H$$ for heads, $$T$$ for tails) in some order, likely with many more heads than tails.  If he does this 1000 different times, we want to know what the probability is that he has a streak in any run greater than 70 (I'd argue this is still newsworthy).  First let us simplify once again to a fair coin.
 
 Each time I flip a fair coin there is a \(50\%\) probability for heads, let's call this probability \(p\), and likewise for tails, let's call this probability \(q\).  For the moment \(p\) and \(q\) are equal, but that won't always be the case.  A string of 5 flips might result in the following string:
 
