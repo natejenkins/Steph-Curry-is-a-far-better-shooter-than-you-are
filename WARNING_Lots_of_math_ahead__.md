@@ -1,3 +1,6 @@
+# **Appendix**
+
+## **Detailed Calculation**
 `WARNING: Lots of math ahead.  If you aren't into that sort of thing, skip down to the last figure`
 
 ## **Flipping Coins**
