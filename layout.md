@@ -3,6 +3,7 @@ This_is_a_hard_number__.md
 figures/sports/sports.png
 The_wrong_way_Calculating_Steph__.md
 It_s_easier_to_first__.md
+figures/wrong_way/wrong_way_output.html
 The_right_way_WARNING_Lots__.md
 Consecutive_streaks_of_heads_We__.md
 It_is_a_worthy_exercise__.md
