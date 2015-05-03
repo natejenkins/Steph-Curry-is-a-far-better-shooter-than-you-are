@@ -1,5 +1,5 @@
 # **Appendix:**  **Detailed Calculation**
-`WARNING: Lots of math ahead. 
+`WARNING: Lots of math ahead.` 
 
 ## **Flipping Coins**
 
