@@ -14,6 +14,11 @@ body {
   display: inline-block;
   margin: 0 auto;
   padding: 0px 0px 0px 5px;
+  width: 32%;
+}
+
+.variable-slider input{
+  width: 100%;
 }
 
 .variables {
@@ -26,7 +31,7 @@ body {
 
 #content {
   width: 100%;
-  height: 100%;
+  height: 500px;
 }
 
 .demo-container {
@@ -75,6 +80,7 @@ label {
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.7.0/lodash.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.crosshair.js"></script>
+  <script src="http://www.jqueryflottutorial.com/js/flot/jquery.flot.resize.js"></script>
 </head>
 <body>
   <div id="content"class="full-calculation" >
@@ -724,6 +730,13 @@ var rightProbability = function(p3, shotsPerDay, streakLength, numDays){
 /*  Adapted from http://www.flotcharts.org/flot/examples/tracking/index.html,
 **  Original Code is Copyright © 2007 - 2014 IOLA and Ole Laursen 
 */
+$(document).ready(function(){
+  $("#content").height($(window).height());
+  $("#content").resize(function(){
+    $("#content").height($(window).height());
+  });
+});
+
 $(function() {
   var updateCalculation;
   if($("#content").hasClass("full-calculation")){
