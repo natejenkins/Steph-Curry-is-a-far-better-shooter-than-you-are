@@ -1,4 +1,4 @@
-Amateur_basketball_players_love_to__.md
+The_best_3_point_shooters__.md
 This_is_a_hard_number__.md
 figures/sports/sports.png
 The_wrong_way_Calculating_Steph__.md
