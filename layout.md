@@ -6,10 +6,10 @@ The_wrong_way_Calculating_Steph__.md
 It_s_easier_to_first__.md
 figures/wrong_way/wrong_way_output.html
 The_right_way_What_was__.md
-figures/curry1/curry1.png
 figures/right_way/right_way_output.html
 I_ve_played_a_lot__.md
 Appendix_Detailed_Calculation_WARNING_Lots__.md
+figures/curry1/curry1.png
 Consecutive_streaks_of_heads_We__.md
 It_is_a_worthy_exercise__.md
 Back_to_Steph_s_biased__.md
