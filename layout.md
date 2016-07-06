@@ -2,11 +2,11 @@ figures/curry/curry.png
 The_best_3_point_shooters__.md
 This_is_a_hard_number__.md
 figures/sports/sports.png
-figures/curry1/curry1.png
 The_wrong_way_Calculating_Steph__.md
 It_s_easier_to_first__.md
 figures/wrong_way/wrong_way_output.html
 The_right_way_What_was__.md
+figures/curry1/curry1.png
 figures/right_way/right_way_output.html
 I_ve_played_a_lot__.md
 Appendix_Detailed_Calculation_WARNING_Lots__.md
