@@ -1,3 +1,4 @@
+figures/curry1/curry1.png
 figures/curry/curry.png
 The_best_3_point_shooters__.md
 This_is_a_hard_number__.md
